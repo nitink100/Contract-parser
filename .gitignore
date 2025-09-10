@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# Environment variable file for secrets
+.env
+
+# Generated JSON output files
+*.json
