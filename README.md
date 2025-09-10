@@ -83,7 +83,7 @@ python parser.py [input_pdf_path] [output_json_path] --force-llm
 
 ### Example JSON output
 
-<!-- {
+{
   "title": "Service Agreement",
   "contract_type": "Service Agreement",
   "effective_date": "2025-09-10",
@@ -100,4 +100,4 @@ python parser.py [input_pdf_path] [output_json_path] --force-llm
       ]
     }
   ]
-} -->
+}
