@@ -40,8 +40,8 @@ In most cases, especially for text-based PDFs, the target of under 60 seconds fo
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/contract-parser.git](https://github.com/your-username/contract-parser.git)
-    cd contract-parser
+    git clone https://github.com/nitink100/Contract-parser.git
+    cd Contract-parser
     ```
 2.  Install the required Python packages:
     ```bash
